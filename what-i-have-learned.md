@@ -1,0 +1,1 @@
+-Afficher un élément aléatoire d'un array en utlisant [Math.floor(Math.random() * array.length)]
